@@ -1,0 +1,6 @@
+@media screen and (max-width: 768px){
+    .lessons .text-center{
+        max-width: 728px;
+        font-size: small;
+    }
+}
